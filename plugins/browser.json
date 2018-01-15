@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "top.alzly.appi"
+        }
+    }
+}
